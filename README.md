@@ -10,7 +10,7 @@ dengan tampilan yang sederhana, menarik, dan mudah digunakan.
 
 <ol>
   <li>Aira irhamna</li>
-  <li>Asyfa tri apsari</li>
+  <li>Asyifa tri apsari</li>
   <li>Chyntia putri dila </li>
   <li>M.ijlal adilla</li>
   <li>Meutya wahyu talita</li></li>
